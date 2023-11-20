@@ -1,0 +1,13 @@
+D:\projects\softder\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+D:\projects\softder\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+D:\projects\softder\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.SuggestedBindingRedirects.cache
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.MainForm.resources
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.Questions.resources
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+D:\projects\softder\QuizApp\QuizApp\obj\Debug\QuizApp.Results.resources
